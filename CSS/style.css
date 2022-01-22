@@ -1,0 +1,14 @@
+.info-background{
+    background-color: #FCEAE8;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.panda-btn{
+    background-color: #FF247A;
+    border-radius: 8px;
+    color: #FFFFFF;
+    padding: 9px 25px;
+}
